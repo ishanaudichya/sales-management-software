@@ -1,8 +1,8 @@
 # Company Sales Management Software
 
-<img style='width:50vw' src="./info/login.png" />
-<img style='width:80vw' src="./info/dark.png" />
-<img style='width:80vw' src="./info/light.png" />
+![Alt text](./info/login.png)
+![Alt text](./info/dark.png)
+![Alt text](./info/light.png)
 
 ## Table of Contents
 
