@@ -1,8 +1,8 @@
 # Company Sales Management Software
 
-<img style='width:50vw' src="./readme/login.png" />
-<img style='width:80vw' src="./readme/dark.png" />
-<img style='width:80vw' src="./readme/light.png" />
+<img style='width:50vw' src="./info/login.png" />
+<img style='width:80vw' src="./info/dark.png" />
+<img style='width:80vw' src="./info/light.png" />
 
 ## Table of Contents
 
