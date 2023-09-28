@@ -1,8 +1,8 @@
 # Company Sales Management Software
 
-![Alt text](./info/login.png)
-![Alt text](./info/dark.png)
-![Alt text](./info/light.png)
+![login](./info/login.png)
+![dark](./info/dark.png)
+![light](./info/light.png)
 
 ## Table of Contents
 
