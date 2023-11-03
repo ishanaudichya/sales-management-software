@@ -1,106 +1,110 @@
 import { tokens } from "../theme";
 
 export const mockDataTeam = [
-  
-    {
-      id: 1,
-      name: "Ishan Audichya",
-      email: "ishanaudichya@gmail.com",
-      age: 35,
-      phone: "(665)121-5454",
-      access: "admin",
-    },
-    {
-      id: 2,
-      name: "Aryaman Gautam",
-      email: "aryamangautam@gmail.com",
-      age: 42,
-      phone: "(421)314-2288",
-      access: "manager",
-    },
-    {
-      id: 3,
-      name: "Sakshi Rajpal",
-      email: "sakshirajpal@gmail.com",
-      age: 45,
-      phone: "(422)982-6739",
-      access: "user",
-    },
-    {
-      id: 4,
-      name: "Pranav Tapdiya",
-      email: "pranavtapdiya@gmail.com",
-      age: 16,
-      phone: "(921)425-6742",
-      access: "admin",
-    },
-    {
-      id: 5,
-      name: "Shailza Thakur",
-      email: "shailzathakur@gmail.com",
-      age: 31,
-      phone: "(421)445-1189",
-      access: "user",
-    },
-    {
-      id: 6,
-      name: "Parikshit Patil",
-      email: "parikshitpatil@gmail.com",
-      age: 150,
-      phone: "(232)545-6483",
-      access: "manager",
-    },
-    {
-      id: 7,
-      name: "Aditya Apte",
-      email: "adityaapte@gmail.com",
-      age: 44,
-      phone: "(543)124-0123",
-      access: "user",
-    },
-    {
-      id: 8,
-      name: "Haashir Sanaa",
-      email: "haashirsanaa@gmail.com",
-      age: 36,
-      phone: "(222)444-5555",
-      access: "user",
-    },
-    {
-      id: 9,
-      name: "Aryan Singh",
-      email: "aryansingh@gmail.com",
-      age: 65,
-      phone: "(444)555-6239",
-      access: "admin",
-    },
-    {
-      id: 10,
-      name: "Dinesh Yadav",
-      email: "dineshyadav@gmail.com",
-      age: 28,
-      phone: "(555)123-4567",
-      access: "user",
-    },
-    {
-      id: 11,
-      name: "Vikash Sharraf",
-      email: "vikashsharraf@gmail.com",
-      age: 30,
-      phone: "(666)987-6543",
-      access: "manager",
-    },
-    {
-      id: 12,
-      name: "Maulik Rao",
-      email: "maulikrao@gmail.com",
-      age: 35,
-      phone: "(777)876-5432",
-      access: "user",
-    },
-  
-  
-  
+  {
+    id: 1,
+    name: "Ishan Audichya",
+    email: "ishanaudichya@gmail.com",
+    age: 35,
+    phone: "(665)121-5454",
+    access: "admin",
+  },
+  {
+    id: 2,
+    name: "Aryaman Gautam",
+    email: "aryamangautam@gmail.com",
+    age: 42,
+    phone: "(421)314-2288",
+    access: "manager",
+  },
+  {
+    id: 3,
+    name: "Sakshi Rajpal",
+    email: "sakshirajpal@gmail.com",
+    age: 45,
+    phone: "(422)982-6739",
+    access: "user",
+  },
+  {
+    id: 4,
+    name: "Pranav Tapdiya",
+    email: "pranavtapdiya@gmail.com",
+    age: 16,
+    phone: "(921)425-6742",
+    access: "admin",
+  },
+  {
+    id: 5,
+    name: "Shailza Thakur",
+    email: "shailzathakur@gmail.com",
+    age: 31,
+    phone: "(421)445-1189",
+    access: "user",
+  },
+  {
+    id: 6,
+    name: "Parikshit Patil",
+    email: "parikshitpatil@gmail.com",
+    age: 150,
+    phone: "(232)545-6483",
+    access: "manager",
+  },
+  {
+    id: 7,
+    name: "Aditya Apte",
+    email: "adityaapte@gmail.com",
+    age: 44,
+    phone: "(543)124-0123",
+    access: "user",
+  },
+  {
+    id: 8,
+    name: "Haashir Sanaa",
+    email: "haashirsanaa@gmail.com",
+    age: 36,
+    phone: "(222)444-5555",
+    access: "user",
+  },
+  {
+    id: 9,
+    name: "Aryan Singh",
+    email: "aryansingh@gmail.com",
+    age: 65,
+    phone: "(444)555-6239",
+    access: "admin",
+  },
+  {
+    id: 10,
+    name: "Dinesh Yadav",
+    email: "dineshyadav@gmail.com",
+    age: 28,
+    phone: "(555)123-4567",
+    access: "user",
+  },
+  {
+    id: 11,
+    name: "Vikash Sharraf",
+    email: "vikashsharraf@gmail.com",
+    age: 30,
+    phone: "(666)987-6543",
+    access: "manager",
+  },
+  {
+    id: 12,
+    name: "Maulik Rao",
+    email: "maulikrao@gmail.com",
+    age: 35,
+    phone: "(777)876-5432",
+    access: "user",
+  },
+  {
+    id: 13,
+    name: "Prakhya Pathak",
+    email: "prakhyap@gmail.com",
+    age: 19,
+    phone: "(237)876-4864",
+    access: "user",
+  },
 ];
 
 export const mockDataContacts = [
@@ -236,10 +240,19 @@ export const mockDataContacts = [
     zipCode: "462001",
     registrarId: 987665,
   },
+  {
+    id: 13,
+    name: "Prakhya Pathak",
+    email: "prakhyapathak@gmail.com",
+    age: 28,
+    phone: "+91 98765 43222",
+    address: "1234 ABC Lane, Mumbai, MH 400001",
+    city: "Mumbai",
+    zipCode: "400001",
+    registrarId: 987666,
+  },
 ];
-;
-
-export const mockDataInvoices =[
+export const mockDataInvoices = [
   {
     id: 1,
     name: "Ishan Audichya",
@@ -336,9 +349,15 @@ export const mockDataInvoices =[
     phone: "+91 98765 43221",
     date: "12/08/2022",
   },
+  {
+    id: 13,
+    name: "Prakhya Pathak",
+    email: "prakhyapathak@gmail.com",
+    cost: "6,500",
+    phone: "+91 98765 43222",
+    date: "11/22/2022",
+  },
 ];
-;
-
 export const mockTransactions = [
   {
     txId: "01e4dsa1",
@@ -400,8 +419,7 @@ export const mockTransactions = [
     date: "2023-09-18",
     cost: "1,230",
   },
-]
-;
+];
 export const mockBarData = [
   {
     country: "US",
@@ -417,8 +435,8 @@ export const mockBarData = [
     printerColor: "hsl(340, 70%, 50%)",
     projector: 140,
     projectorColor: "hsl(340, 70%, 50%)",
-},
-{
+  },
+  {
     country: "Canada",
     smartphone: 120,
     smartphoneColor: "hsl(229, 70%, 50%)",
@@ -432,8 +450,8 @@ export const mockBarData = [
     printerColor: "hsl(340, 70%, 50%)",
     projector: 130,
     projectorColor: "hsl(340, 70%, 50%)",
-},
-{
+  },
+  {
     country: "UK",
     smartphone: 125,
     smartphoneColor: "hsl(229, 70%, 50%)",
@@ -447,8 +465,8 @@ export const mockBarData = [
     printerColor: "hsl(340, 70%, 50%)",
     projector: 135,
     projectorColor: "hsl(340, 70%, 50%)",
-},
-{
+  },
+  {
     country: "Australia",
     smartphone: 130,
     smartphoneColor: "hsl(229, 70%, 50%)",
@@ -462,8 +480,8 @@ export const mockBarData = [
     printerColor: "hsl(340, 70%, 50%)",
     projector: 138,
     projectorColor: "hsl(340, 70%, 50%)",
-},
-{
+  },
+  {
     country: "Germany",
     smartphone: 122,
     smartphoneColor: "hsl(229, 70%, 50%)",
@@ -477,8 +495,8 @@ export const mockBarData = [
     printerColor: "hsl(340, 70%, 50%)",
     projector: 133,
     projectorColor: "hsl(340, 70%, 50%)",
-},
-{
+  },
+  {
     country: "France",
     smartphone: 127,
     smartphoneColor: "hsl(229, 70%, 50%)",
@@ -492,8 +510,7 @@ export const mockBarData = [
     printerColor: "hsl(340, 70%, 50%)",
     projector: 136,
     projectorColor: "hsl(340, 70%, 50%)",
-}
-
+  },
 ];
 export const mockPieData = [
   {
@@ -581,8 +598,6 @@ export const mockLineData = [
         x: "December",
         y: 14,
       },
-    
-    
     ],
   },
   {
@@ -637,66 +652,61 @@ export const mockLineData = [
         x: "December",
         y: 30,
       },
-    ]
-    
+    ],
   },
   {
     id: "us",
     color: tokens("dark").redAccent[200],
-    data: 
-
-        [
-          {
-            x: "January",
-            y: 275,
-          },
-          {
-            x: "February",
-            y: 165,
-          },
-          {
-            x: "March",
-            y: 90,
-          },
-          {
-            x: "April",
-            y: 41,
-          },
-          {
-            x: "May",
-            y: 148,
-          },
-          {
-            x: "June",
-            y: 287,
-          },
-          {
-            x: "July",
-            y: 105,
-          },
-          {
-            x: "August",
-            y: 240,
-          },
-          {
-            x: "September",
-            y: 314,
-          },
-          {
-            x: "October",
-            y: 68,
-          },
-          {
-            x: "November",
-            y: 222,
-          },
-          {
-            x: "December",
-            y: 50,
-          },
-        ]
-        
-      
+    data: [
+      {
+        x: "January",
+        y: 275,
+      },
+      {
+        x: "February",
+        y: 165,
+      },
+      {
+        x: "March",
+        y: 90,
+      },
+      {
+        x: "April",
+        y: 41,
+      },
+      {
+        x: "May",
+        y: 148,
+      },
+      {
+        x: "June",
+        y: 287,
+      },
+      {
+        x: "July",
+        y: 105,
+      },
+      {
+        x: "August",
+        y: 240,
+      },
+      {
+        x: "September",
+        y: 314,
+      },
+      {
+        x: "October",
+        y: 68,
+      },
+      {
+        x: "November",
+        y: 222,
+      },
+      {
+        x: "December",
+        y: 50,
+      },
+    ],
   },
 ];
 
